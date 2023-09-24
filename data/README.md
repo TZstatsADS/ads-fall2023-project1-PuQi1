@@ -7,4 +7,4 @@ The data directory contains data used in the analysis. This is treated as read o
 
 'clear_data' are data that have been cleaned
 
-'stopwords' are stopwords that have been used in data-cleaning
+'stop' are stopwords that have been used in data-cleaning
