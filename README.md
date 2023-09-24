@@ -21,8 +21,8 @@ proj/
 ├── lib/Raw R code
 ├── data/Data of HappyDB
 ├── doc/Rmd & Html
-├── figs/Outputs
-└── output/
+├── figs/Output figures
+└── output/The conclusion
 ```
 
 Please see each subfolder for a README file.
