@@ -18,10 +18,10 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
-├── lib/
-├── data/data of HappyDB
-├── doc/code using R
-├── figs/
+├── lib/Raw R code
+├── data/Data of HappyDB
+├── doc/Rmd & Html
+├── figs/Outputs
 └── output/
 ```
 
